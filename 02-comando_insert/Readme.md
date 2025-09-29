@@ -12,7 +12,7 @@ Você também pode inserir vários registros de uma vez:
 
 ```sql
 INSERT INTO clientes (nome, email) VALUES 
-('Mariana Claudia', 'ana@email.com'),
+('Mariana Claudia', 'mari@email.com'),
 ('Carlos Magnum', 'carlos@email.com');
 ```
 
